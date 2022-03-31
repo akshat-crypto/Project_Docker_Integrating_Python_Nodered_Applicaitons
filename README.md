@@ -14,4 +14,4 @@
 
 > Also for nodered , influxdb, and python containers Here we have setup certain health checkups to monitor whether these applicaitons are running properly or not
 
-https://user-images.githubusercontent.com/64367344/161097072-420570da-8473-4488-8b41-ee615795139b.mp4
+https://user-images.githubusercontent.com/64367344/161107911-942edec3-7c5b-4255-a720-b671e8d7ea0f.mp4
